@@ -19,4 +19,5 @@ Aluno: [Leonardo Nadson Oliveira de Medeiros](https://github.com/leonardo-nadson
 ## Log do projeto
 | Data | Descrição |
 | --- | --- |
+| 30.03.2023 | Projeto HTML Publicado|
 
